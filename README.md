@@ -1,2 +1,2 @@
 # copy-to-clipboard-button
-Javascript example of how to add a copy button for copying multiple code snippet to clipboard with
+Plain Javascript example of how to add a copy button per each code tag which allows the user to copy multiple code snippet to clipboard.

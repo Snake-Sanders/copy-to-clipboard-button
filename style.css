@@ -1,0 +1,8 @@
+/* the temporary text area created for copying to clipboard
+has an offset out of the main view in case the creation and destruction
+show white flashings */
+
+textarea .copy-txt-area {
+    position: absolute;
+    left: -100%;
+}
